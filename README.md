@@ -2,7 +2,6 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
 
 ### :woman_technologist: About Me :
 Welcome to my GitHub profile! I'm an aspiring Front End Developer :rocket: 
