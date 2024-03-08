@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm an aspiring Front End Developer :rocket:
 
 - 🔭 I’m currently working on a Chingu voyage
 - 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ...reach out, I would love to collaborate!
+- 🤔 I’m looking for help with ... everything!
 - ⚡ Fun fact: In my free time, I love eating :fries: :sushi: :curry:
 
 
