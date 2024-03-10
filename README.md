@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
-Welcome to my GitHub profile! I'm an aspiring Front End Developer :rocket: 
+### :computer: About Me :
+I'm an aspiring Front End Developer :rocket: 
 
 - 🔭 I’m currently working on a Chingu voyage
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on ...reach out, I would love to collaborate!
-- 🤔 I’m looking for help with ... everything!
+- :open_book: I’m looking for help with ... everything!
 - ⚡ Fun fact: In my free time, I love eating :fries: :sushi: :curry:
 
 
@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm an aspiring Front End Developer :rocket:
 
 
 <!--
+https://www.sitepoint.com/github-profile-readme/
 ### Hi there 👋
 **jessabc/jessabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
