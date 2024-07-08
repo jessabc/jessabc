@@ -4,7 +4,6 @@
 </h1>
 
 ### :computer: About Me :
-- 🔭 I’m currently working on a Chingu voyage
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on ...reach out, I would love to collaborate
 - :open_book: I’m looking for help with everything...
